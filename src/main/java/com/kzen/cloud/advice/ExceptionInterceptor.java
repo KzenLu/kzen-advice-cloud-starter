@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.net.BindException;
 
 /**
- * @Description: 异常全局处理(来源于网络 非原创,修改)
+ * @Description: 异常全局处理
  * @Author: kzen
  * @Date: 2021/4/27 4:30 下午
  */
